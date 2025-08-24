@@ -1,22 +1,72 @@
-# shinmok-TheReason-_KOR
-VN game : shinmok(The reason)의 한국어 버전 
+🎮 Indie Game Proposal
 
-소재 : 당산나무: 기억과 화해
-주제 : 한국 전통 오컬트를 기반으로 한 가족의 이해와 화해 
+“Dang Shan Tree: Reconciliation with Memories”
+Korean Traditional Occult
+Dang Shan Namu: Reconciliation with Memories
 
-📖 개요
-그해 여름, 할머니가 돌아가셨다. 그리고 나는 할머니가, 살해됐다고 생각한다.
-그리고 그 범인은, 우리 언니다. 
+📖 Overview
 
+This work is a short interactive story game set in a rural Korean town.
 
-🧩 주요 특징
+The narrative unfolds through two perspectives:
 
-당산나무, 복분자청, 작설차 등 지역적 요소 활용
-계절별 두 가지 시점 구조 (여름 = 동생 / 겨울 = 언니)
+Summer: The brother recalling the day their grandmother passed away
 
-📬 연락처
+Winter: The sister who returns to her hometown after years of estrangement
 
-관심 있으신 분은 언제든 연락주세요.
-협업, 리뷰, 피드백 모두 환영합니다!
+A brother who experienced something strange but couldn’t confide in his family,
+and an ordinary sister trying to understand him.
 
-이메일: hiu2332@naver.com
+It’s a sentimental story exploring dream and reality, the seen and unseen,
+and the bittersweet bonds and disconnections within family.
+
+📌 Basic Information
+
+Tentative Title: Dang Shan Tree: Reconciliation with Memories
+Genre: Story-driven Interactive Novel
+Playtime (Demo): Approximately 5–15 minutes
+Platform: PC Web (HTML5-based)
+
+🧩 Key Features
+
+🌳 Korean Traditional Occult Themes
+(Incorporates local elements such as Dangsan Tree, Bokbunja-cheong (black raspberry syrup), Jakseol-cha (tea), etc.)
+
+❄️ Two-Part Structure by Season
+(Summer = Brother / Winter = Sister)
+
+🧠 Blend of Psychological Fantasy and Family Drama
+
+👁️ Exploration of the Boundary Between the Visible and the Invisible
+
+✍️ Short but Emotionally Dense Narrative with Lyrical Presentation
+
+🧪 Demo
+
+https://hayeanwoo.github.io/project-shinmok/
+
+👩💻 About the Developer
+
+Name: Ha Yeon-woo
+Location: Seoul, Republic of Korea
+Affiliation: Undergraduate, Sejong University, Department of Computer Engineering
+Role: Scenario, Direction, Planning, Overall Production
+
+📬 Contact
+
+If you’re interested, feel free to reach out anytime.
+Collaboration, reviews, and feedback are all welcome!
+
+Email: hiu2332@naver.com
+
+💡 Why This Story Matters Now
+
+The Dangsan Tree, which plays an important role in this work, is a traditional Korean object of worship. In recent years, it has gained global attention, even appearing in the Netflix anime “K-POP Demon Hunters”.
+
+Additionally, in Japan, there is a recurring surge of interest in occult, horror, and nostalgic story-driven games during the summer season. We believe this work aligns perfectly with that seasonal mood.
+
+→ In other words, this is a story that should be told “right now.”
+
+🎥 Concept Videos
+Summer: Dangsan Tree: Concept Trailer
+Winter: Dangsan Tree: Concept Trailer 2
